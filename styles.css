@@ -172,14 +172,14 @@ nav {
   justify-content: center;
 }
 
-.tent-1 {
+.plant1 {
   max-width: 300px;
   transform: translateX(1rem);
   border-radius: 1rem;
   box-shadow: 5px 5px 20px rgba(0, 0, 0, 0.2);
 }
 
-.tent-2 {
+.plant2 {
   max-width: 180px;
   transform: translateX(-1rem);
   border-radius: 1rem;
@@ -337,13 +337,13 @@ nav {
     flex-direction: column;
   }
 
-  .tent-1 {
+  .plant1 {
     width: calc(100% + 10rem);
     max-width: 325px;
     transform: translate(-2rem, 2rem);
   }
 
-  .tent-2 {
+  .plant2 {
     max-width: 200px;
     transform: translate(4rem, -1rem);
   }
